@@ -1,0 +1,10 @@
+-ID:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\9.2.0\include\c++
+-ID:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\9.2.0\include\c++\x86_64-w64-mingw32
+-ID:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\9.2.0\include\c++\backward
+-ID:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\9.2.0\include
+-ID:\TDM-GCC-64\include
+-ID:\TDM-GCC-64\lib\gcc\x86_64-w64-mingw32\9.2.0\include-fixed
+-ID:\TDM-GCC-64\x86_64-w64-mingw32\include
+-IC:\TEST1\LinearDSFirst
+-target
+x86_64-pc-windows-gnu

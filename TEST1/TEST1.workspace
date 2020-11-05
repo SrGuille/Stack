@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="TEST1" Database="" Version="10000">
+  <Project Name="TEST1" Path="TEST1/TEST1.project" Active="No"/>
+  <Project Name="EX1" Path="../EX1/EX1/EX1.project" Active="No"/>
+  <Project Name="EX2" Path="EX2/EX2.project" Active="No"/>
+  <Project Name="LinearDSFirst" Path="LinearDSFirst/LinearDSFirst.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TEST1" ConfigName="Debug"/>
+      <Project Name="EX1" ConfigName="Debug"/>
+      <Project Name="EX2" ConfigName="Debug"/>
+      <Project Name="LinearDSFirst" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TEST1" ConfigName="Release"/>
+      <Project Name="EX1" ConfigName="Release"/>
+      <Project Name="EX2" ConfigName="Release"/>
+      <Project Name="LinearDSFirst" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

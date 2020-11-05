@@ -1,0 +1,1 @@
+../build-Debug/LinearDSFirst/StackElemData.cpp.o ../build-Debug/LinearDSFirst/main.cpp.o ../build-Debug/LinearDSFirst/Core.cpp.o ../build-Debug/LinearDSFirst/StackElem.cpp.o ../build-Debug/LinearDSFirst/StackDS.cpp.o   
